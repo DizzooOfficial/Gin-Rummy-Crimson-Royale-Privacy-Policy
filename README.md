@@ -21,21 +21,24 @@ This information allows the game to restore your progress and preferences betwee
 
 The offline version of the game does not require you to create an account or provide your name, email address, or phone number to play.
 
-### b) Advertising
+### b) ### b) Advertising
 
-The game may use **Google AdMob** to display advertisements, including banner, interstitial, and optional rewarded advertisements, where these features are enabled.
+Gin Rummy: Crimson Royale uses **Google AdMob** to display advertisements, including banner, interstitial, and optional rewarded advertisements, where enabled.
 
-Depending on your device, advertising settings, and applicable permissions, Google's advertising services may collect or process information such as:
+Google AdMob and its advertising partners may collect or process information such as:
 
 - IP address and approximate location derived from it.
 - Advertising identifiers and other device identifiers.
-- App interactions, including advertisement views and taps.
-- Diagnostic information, including crash and performance data.
+- Advertisement interactions, including views and clicks.
+- Device information, diagnostic data, and performance information.
 
-This information may be used to deliver and measure advertisements, prevent fraud, and maintain advertising services.
+This information may be used to display advertisements, measure advertising performance, prevent fraud, and maintain advertising services.
 
-For more information, see [Google's advertising privacy information](https://policies.google.com/technologies/ads) and [Google's Privacy Policy](https://policies.google.com/privacy).
+Depending on your location and applicable laws, we may request your consent before using personal information for personalized advertising.
 
+You can manage advertising preferences through your device settings and any available consent options within the game.
+
+For more information, see [Google's Advertising Privacy Information](https://policies.google.com/technologies/ads) and [Google's Privacy Policy](https://policies.google.com/privacy).
 ### c) Support Requests
 
 If you contact us by email, we receive your email address and any information you choose to provide.
