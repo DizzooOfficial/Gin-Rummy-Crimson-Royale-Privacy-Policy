@@ -90,7 +90,11 @@ The game does not collect payment-card information through its offline gameplay.
 
 ## 5. Third-Party Services and Links
 
-Where advertising is enabled, the game uses Google AdMob, which processes information under Google's privacy policies.
+Gin Rummy: Crimson Royale uses **Google AdMob**, a mobile advertising service provided by Google LLC.
+
+Google AdMob and its advertising partners may process device identifiers, advertising interactions, and related information according to their privacy policies.
+
+For more information, visit [Google's Privacy Policy](https://policies.google.com/privacy).
 
 The game may also contain links to:
 
