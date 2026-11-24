@@ -188,7 +188,7 @@ For privacy-related questions, support requests, or requests concerning informat
 
 **Dizzoo Studios**
 
-**Email:** support@dizzoo.com
+**Email:** dizzooofficial444@gmail.com
 
 **Game:** Gin Rummy: Crimson Royale
 
